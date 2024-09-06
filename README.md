@@ -4,7 +4,7 @@
 
 
 
-## `project live link :-` https://react-star-rating-74c7hl10z-amit-kumars-projects-d761c49e.vercel.app/
+## `project live link :-` https://react-star-rating-mu.vercel.app/
 
 
 
